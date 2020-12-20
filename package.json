@@ -1,0 +1,23 @@
+{
+  "name": "games",
+  "version": "1.0.0",
+  "description": "Some games",
+  "main": "guessnum.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayumi-Kaito/games.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "LOYALTY",
+  "license": "BSD-4-Clause",
+  "bugs": {
+    "url": "https://github.com/Ayumi-Kaito/games/issues"
+  },
+  "homepage": "https://github.com/Ayumi-Kaito/games#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline": "^1.3.0"
+  }
+}
